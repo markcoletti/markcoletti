@@ -1,4 +1,4 @@
-<h1 align="center">Dr. Mark Coletti</h1>
+<h1 align="center">Mark Coletti, PhD</h1>
 <h3 align="center">Staff scientist at the Oak Ridge National Laboratory</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markcoletti&label=Profile%20views&color=0e75b6&style=flat" alt="markcoletti" /> </p>

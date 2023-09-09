@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markcoletti" alt="markcoletti" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/piprrr" target="blank"><img src="https://img.shields.io/twitter/follow/piprrr?logo=twitter&style=for-the-badge" alt="piprrr" /></a> </p>
-
 - 🔭 I’m currently doing research **in scaling evolutionary algorithms on HPC systems**
 
 - 💬 Ask me about **evolutionary algorithms, artificial intelligence, and agent-based modeling**
